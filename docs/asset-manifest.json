@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/styled-components-tutorial/static/js/main.d1f3492f.js",
+    "static/js/787.3cde7398.chunk.js": "/styled-components-tutorial/static/js/787.3cde7398.chunk.js",
+    "static/media/laptop.svg": "/styled-components-tutorial/static/media/laptop.7911a25c9230db19c30155119c4188a6.svg",
+    "index.html": "/styled-components-tutorial/index.html",
+    "main.d1f3492f.js.map": "/styled-components-tutorial/static/js/main.d1f3492f.js.map",
+    "787.3cde7398.chunk.js.map": "/styled-components-tutorial/static/js/787.3cde7398.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d1f3492f.js"
+  ]
+}
